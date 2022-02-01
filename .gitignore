@@ -1,2 +1,4 @@
 # Ignore vim swap files
 *.swp
+# ignore commit message
+.gitcommit
